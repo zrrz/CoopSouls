@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: a4bf200a43407944f9ee64d806f5fde9
+timeCreated: 1484269942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: takeapart3_0
+    21300002: takeapart3_1
+    21300004: takeapart3_2
+    21300006: takeapart3_3
+    21300008: takeapart3_4
+    21300010: takeapart3_5
+    21300012: takeapart3_6
+    21300014: takeapart3_7
+    21300016: takeapart3_8
+    21300018: takeapart3_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: takeapart3_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 957
+        width: 154
+        height: 134
+      alignment: 9
+      pivot: {x: 0.7897029, y: 0.80916035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_1
+      rect:
+        serializedVersion: 2
+        x: 445.99997
+        y: 982
+        width: 152.00003
+        height: 131
+      alignment: 9
+      pivot: {x: 0.15407197, y: 0.8162404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_2
+      rect:
+        serializedVersion: 2
+        x: 811.99994
+        y: 852
+        width: 158.00012
+        height: 248
+      alignment: 9
+      pivot: {x: 0.44957727, y: 0.91119134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_3
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 836
+        width: 163
+        height: 240
+      alignment: 9
+      pivot: {x: 0.33710426, y: 0.92870283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_4
+      rect:
+        serializedVersion: 2
+        x: 68.00001
+        y: 636
+        width: 151
+        height: 122
+      alignment: 9
+      pivot: {x: 0.8482189, y: 0.8526301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_5
+      rect:
+        serializedVersion: 2
+        x: 438.99997
+        y: 649
+        width: 150.00003
+        height: 122
+      alignment: 9
+      pivot: {x: 0.1069702, y: 0.8526301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_6
+      rect:
+        serializedVersion: 2
+        x: 877.00006
+        y: 517
+        width: 192.99994
+        height: 241
+      alignment: 9
+      pivot: {x: 0.3082036, y: 0.08088577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 200
+        width: 90
+        height: 324
+      alignment: 9
+      pivot: {x: 0.78858984, y: 0.9542619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_8
+      rect:
+        serializedVersion: 2
+        x: 440.99997
+        y: 178
+        width: 89.00003
+        height: 314
+      alignment: 9
+      pivot: {x: 0.25680637, y: 0.96872884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: takeapart3_9
+      rect:
+        serializedVersion: 2
+        x: 861.00006
+        y: 121
+        width: 203.99994
+        height: 357
+      alignment: 9
+      pivot: {x: 0.49999985, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97273114945362
+  assetBundleName: 
+  assetBundleVariant: 

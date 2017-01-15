@@ -33,7 +33,7 @@ public class Dust : MonoBehaviour {
 			for(int i = 0; i < numParticlesAlive; i++) {
 				Vector3 dist = target.transform.position - particles[i].position;
 				if(dist.magnitude < 0.5f) {
-					particles[i].lifetime = 0f;
+					particles[i].remainingLifetime = 0f;
 				} else {
 					float r = dist.sqrMagnitude;
 					dist.Normalize();
