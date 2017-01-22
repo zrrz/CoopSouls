@@ -2,7 +2,6 @@ using UnityEngine;
 using System.Collections;
 using Prime31;
 
-
 public class SmoothFollow : MonoBehaviour
 {
 	public Transform target;
@@ -39,6 +38,9 @@ public class SmoothFollow : MonoBehaviour
 
 	void updateCameraPosition()
 	{
+		if(target == null)
+			return;
+		
 		if( _playerController == null )
 		{
 			transform.position = Vector3.SmoothDamp( transform.position, target.position - cameraOffset, ref _smoothDampVelocity, smoothDampTime );

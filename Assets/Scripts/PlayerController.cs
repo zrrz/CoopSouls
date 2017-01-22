@@ -24,6 +24,8 @@ public class PlayerController : MonoBehaviour {
 
 	bool movementLocked = false;
 
+	DamageHandler damageHandler;
+
     void Awake()
     {
 //        _animator = GetComponent<Animator>();
@@ -38,6 +40,11 @@ public class PlayerController : MonoBehaviour {
 
 		_controller.warpToGrounded();
     }
+
+	void Start() {
+		damageHandler = GetComponent<DamageHandler>();
+		damageHandler.OnDeath.AddListener(OnDeath);
+	}
 
 
     #region Event Listeners
@@ -196,5 +203,11 @@ public class PlayerController : MonoBehaviour {
 		spell.GetComponent<Rigidbody2D>().velocity = direction * 18f;
 		_velocity.x = 0f;
 		movementLocked = false;
+	}
+
+	void OnDeath() {
+		Destroy(gameObject);
+
+		//Trigger game restart
 	}
 }

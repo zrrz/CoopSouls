@@ -1,0 +1,929 @@
+fileFormatVersion: 2
+guid: 3bbee1f7138b451469c1386f268a5be0
+timeCreated: 1479649975
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spiderSprites_0
+    21300002: spiderSprites_1
+    21300004: spiderSprites_2
+    21300006: spiderSprites_3
+    21300008: spiderSprites_4
+    21300010: spiderSprites_5
+    21300012: spiderSprites_6
+    21300014: spiderSprites_7
+    21300016: spiderSprites_8
+    21300018: spiderSprites_9
+    21300020: spiderSprites_10
+    21300022: spiderSprites_11
+    21300024: spiderSprites_12
+    21300026: spiderSprites_13
+    21300028: spiderSprites_14
+    21300030: spiderSprites_15
+    21300032: spiderSprites_16
+    21300034: spiderSprites_17
+    21300036: spiderSprites_18
+    21300038: spiderSprites_19
+    21300040: spiderSprites_20
+    21300042: spiderSprites_21
+    21300044: spiderSprites_22
+    21300046: spiderSprites_23
+    21300048: spiderSprites_24
+    21300050: spiderSprites_25
+    21300052: spiderSprites_26
+    21300054: spiderSprites_27
+    21300056: spiderSprites_28
+    21300058: spiderSprites_29
+    21300060: spiderSprites_30
+    21300062: spiderSprites_31
+    21300064: spiderSprites_32
+    21300066: spiderSprites_33
+    21300068: spiderSprites_34
+    21300070: spiderSprites_35
+    21300072: spiderSprites_36
+    21300074: spiderSprites_37
+    21300076: spiderSprites_38
+    21300078: spiderSprites_39
+    21300080: spiderSprites_40
+    21300082: spiderSprites_41
+    21300084: spiderSprites_42
+    21300086: spiderSprites_43
+    21300088: spiderSprites_44
+    21300090: spiderSprites_45
+    21300092: spiderSprites_46
+    21300094: spiderSprites_47
+    21300096: spiderSprites_48
+    21300098: spiderSprites_49
+    21300100: spiderSprites_50
+    21300102: spiderSprites_51
+    21300104: spiderSprites_52
+    21300106: spiderSprites_53
+    21300108: spiderSprites_54
+    21300110: spiderSprites_55
+    21300112: spiderSprites_56
+    21300114: spiderSprites_57
+    21300116: spiderSprites_58
+    21300118: spiderSprites_59
+    21300120: spiderSprites_60
+    21300122: spiderSprites_61
+    21300124: spiderSprites_62
+    21300126: spiderSprites_63
+    21300128: spiderSprites_64
+    21300130: spiderSprites_65
+    21300132: spiderSprites_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiderSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_4
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_7
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_10
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_11
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_12
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_13
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_14
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_15
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_16
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_17
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_18
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_22
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_24
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_25
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_27
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_28
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_29
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_30
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_31
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_33
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_34
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_35
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_36
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_37
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1048
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_42
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_43
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_46
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_47
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_48
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_49
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_50
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_51
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_52
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_53
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_54
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_55
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_56
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 548
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_58
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_60
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_61
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_62
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_63
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_64
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_65
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: spiderSprites_66
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 48
+        width: 215
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
